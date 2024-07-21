@@ -1,0 +1,101 @@
+id_cliente,nome,sobrenome,email,telefone,endereco,numero
+1,João,Silva,joao.silva@email.com,(11) 1234-5678,Rua das Flores,123
+2,Maria,Santos,maria.santos@email.com,(11) 2345-6789,Avenida Principal,456
+3,Carlos,Rocha,carlos.rocha@email.com,(11) 3456-7890,Travessa das Árvores,789
+4,Ana,Costa,ana.costa@email.com,(11) 4567-8901,Rua dos Passarinhos,987
+5,Luiz,Oliveira,luiz.oliveira@email.com,(11) 5678-9012,Alameda das Rosas,654
+6,Juliana,Almeida,juliana.almeida@email.com,(11) 6789-0123,Quadra 2,321
+7,Fernando,Mendes,fernando.mendes@email.com,(11) 7890-1234,Praça Central,789
+8,André,Campos,andre.campos@email.com,(11) 8901-2345,Rua das Palmeiras,987
+9,Patrícia,Ribeiro,patricia.ribeiro@email.com,(11) 9012-3456,Avenida dos Girassóis,654
+10,Aline,Carvalho,aline.carvalho@email.com,(11) 0123-4567,Alameda das Orquídeas,321
+11,Ricardo,Ferreira,ricardo.ferreira@email.com,(11) 1234-5678,Rua das Begônias,789
+12,Beatriz,Martins,beatriz.martins@email.com,(11) 2345-6789,Avenida dos Lírios,987
+13,Lucas,Gomes,lucas.gomes@email.com,(11) 3456-7890,Travessa das Margaridas,654
+14,Marcia,Lima,marcia.lima@email.com,(11) 4567-8901,Rua das Violetas,321
+15,Marcos,Barbosa,marcos.barbosa@email.com,(11) 5678-9012,Alameda dos Cravos,789
+16,Sandra,Teixeira,sandra.teixeira@email.com,(11) 6789-0123,Quadra 3,987
+17,Roberto,Cardoso,roberto.cardoso@email.com,(11) 7890-1234,Praça das Flores,654
+18,Carolina,Sousa,carolina.sousa@email.com,(11) 8901-2345,Rua dos Ipês,321
+19,Leandro,Pereira,leandro.pereira@email.com,(11) 9012-3456,Avenida dos Crisântemos,987
+20,Daniela,Costa,daniela.costa@email.com,(11) 0123-4567,Alameda das Hortênsias,654
+21,Adriano,Fernandes,adriano.fernandes@email.com,(11) 1234-5678,Rua das Acácias,321
+22,Larissa,Alves,larissa.alves@email.com,(11) 2345-6789,Avenida dos Jardins,987
+23,José,Mendes,jose.mendes@email.com,(11) 3456-7890,Travessa dos Lilases,654
+24,Camila,Monteiro,camila.monteiro@email.com,(11) 4567-8901,Rua dos Narcisos,321
+25,Gustavo,Rodrigues,gustavo.rodrigues@email.com,(11) 5678-9012,Alameda dos Jasmins,987
+26,Tatiane,Oliveira,tatiane.oliveira@email.com,(11) 6789-0123,Quadra 4,654
+27,Eduardo,Almeida,eduardo.almeida@email.com,(11) 7890-1234,Praça das Tulipas,321
+28,Luana,Marques,luana.marques@email.com,(11) 8901-2345,Rua das Orquídeas,987
+29,Rodrigo,Silveira,rodrigo.silveira@email.com,(11) 9012-3456,Avenida das Amoras,654
+30,Natalia,Correia,natalia.correia@email.com,(11) 0123-4567,Alameda dos Manacás,321
+31,Paulo,Souza,paulo.souza@email.com,(11) 1234-5678,Rua das Margaridas,987
+32,Priscila,Pinheiro,priscila.pinheiro@email.com,(11) 2345-6789,Avenida dos Flamboyants,654
+33,Renato,Lemos,renato.lemos@email.com,(11) 3456-7890,Travessa dos Amores,321
+34,Silvia,Moreira,silvia.moreira@email.com,(11) 4567-8901,Rua dos Girassóis,987
+35,Fabio,Santana,fabio.santana@email.com,(11) 5678-9012,Alameda dos Ipês,654
+36,Isabela,Rodrigues,isabela.rodrigues@email.com,(11) 6789-0123,Quadra 5,321
+37,Rafaela,Gonçalves,rafaela.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,987
+38,Vinicius,Melo,vinicius.melo@email.com,(11) 8901-2345,Rua das Margaridas,654
+39,Mariana,Cavalcanti,mariana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,321
+40,Rodrigo,Andrade,rodrigo.andrade@email.com,(11) 0123-4567,Alameda dos Lírios,987
+41,Fernanda,Ferreira,fernanda.ferreira@email.com,(11) 1234-5678,Rua das Violetas,654
+42,Marcelo,Silveira,marcelo.silveira@email.com,(11) 2345-6789,Avenida dos Narcisos,321
+43,Helena,Campos,helena.campos@email.com,(11) 3456-7890,Travessa das Tulipas,987
+44,Douglas,Souza,douglas.souza@email.com,(11) 4567-8901,Rua dos Girassóis,654
+45,Danielle,Mendes,danielle.mendes@email.com,(11) 5678-9012,Alameda dos Crisântemos,321
+46,Luiz,Fernandes,luiz.fernandes@email.com,(11) 6789-0123,Quadra 6,987
+47,Amanda,Melo,amanda.melo@email.com,(11) 7890-1234,Praça dos Jardins,654
+48,Roberta,Costa,roberta.costa@email.com,(11) 8901-2345,Rua dos Manacás,321
+49,Guilherme,Rocha,guilherme.rocha@email.com,(11) 9012-3456,Avenida dos Jasmins,987
+50,Vanessa,Silva,vanessa.silva@email.com,(11) 0123-4567,Alameda dos Cravos,654
+51,Bruno,Mendes,bruno.mendes@email.com,(11) 1234-5678,Rua das Violetas,321
+52,Simone,Oliveira,simone.oliveira@email.com,(11) 2345-6789,Avenida dos Narcisos,987
+53,Cristiano,Almeida,cristiano.almeida@email.com,(11) 3456-7890,Travessa das Tulipas,654
+54,Juliana,Monteiro,juliana.monteiro@email.com,(11) 4567-8901,Rua dos Girassóis,321
+55,Felipe,Gomes,felipe.gomes@email.com,(11) 5678-9012,Alameda dos Crisântemos,987
+56,Luciana,Silva,luciana.silva@email.com,(11) 6789-0123,Quadra 7,654
+57,Alexandre,Costa,alexandre.costa@email.com,(11) 7890-1234,Praça das Orquídeas,321
+58,Patricia,Carvalho,patricia.carvalho@email.com,(11) 8901-2345,Rua dos Manacás,987
+59,Gabriel,Rodrigues,gabriel.rodrigues@email.com,(11) 9012-3456,Avenida dos Jardins,654
+60,Viviane,Sousa,viviane.sousa@email.com,(11) 0123-4567,Alameda dos Manacás,321
+61,Raquel,Ferreira,raquel.ferreira@email.com,(11) 1234-5678,Rua das Margaridas,987
+62,Rafael,Pinheiro,rafael.pinheiro@email.com,(11) 2345-6789,Avenida dos Flamboyants,654
+63,Ana,Lima,ana.lima@email.com,(11) 3456-7890,Travessa dos Amores,321
+64,Jorge,Moreira,jorge.moreira@email.com,(11) 4567-8901,Rua dos Girassóis,987
+65,Lucas,Santana,lucas.santana@email.com,(11) 5678-9012,Alameda dos Ipês,654
+66,Mariana,Rodrigues,mariana.rodrigues@email.com,(11) 6789-0123,Quadra 8,321
+67,Marcio,Gonçalves,marcio.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,987
+68,Daniela,Campos,daniela.campos@email.com,(11) 8901-2345,Rua das Margaridas,654
+69,Adriana,Cavalcanti,adriana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,321
+70,Gustavo,Andrade,gustavo.andrade@email.com,(11) 0123-4567,Alameda dos Lírios,987
+71,Claudia,Ferreira,claudia.ferreira@email.com,(11) 1234-5678,Rua das Violetas,654
+72,Ricardo,Silva,ricardo.silva@email.com,(11) 2345-6789,Avenida dos Narcisos,321
+73,Fernanda,Campos,fernanda.campos@email.com,(11) 3456-7890,Travessa das Tulipas,987
+74,Diego,Souza,diego.souza@email.com,(11) 4567-8901,Rua dos Girassóis,654
+75,Mariana,Almeida,mariana.almeida@email.com,(11) 5678-9012,Alameda dos Crisântemos,321
+76,Jessica,Fernandes,jessica.fernandes@email.com,(11) 6789-0123,Quadra 9,987
+77,Lucio,Gonçalves,lucio.goncalves@email.com,(11) 7890-1234,Praça dos Jardins,654
+78,Isabel,Santos,isabel.santos@email.com,(11) 8901-2345,Rua dos Manacás,321
+79,Renata,Rocha,renata.rocha@email.com,(11) 9012-3456,Avenida dos Jasmins,987
+80,Flavio,Silveira,flavio.silveira@email.com,(11) 0123-4567,Alameda dos Cravos,654
+81,Jaqueline,Melo,jaqueline.melo@email.com,(11) 1234-5678,Rua das Violetas,321
+82,Luiz,Oliveira,luiz.oliveira@email.com,(11) 2345-6789,Avenida dos Narcisos,987
+83,Patricia,Andrade,patricia.andrade@email.com,(11) 3456-7890,Travessa das Tulipas,654
+84,Roberto,Lima,roberto.lima@email.com,(11) 4567-8901,Rua dos Girassóis,321
+85,Larissa,Silva,larissa.silva@email.com,(11) 5678-9012,Alameda dos Crisântemos,987
+86,Lucas,Fernandes,lucas.fernandes@email.com,(11) 6789-0123,Quadra 10,654
+87,Josiane,Gonçalves,josiane.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,321
+88,Roberto,Campos,roberto.campos@email.com,(11) 8901-2345,Rua das Margaridas,987
+89,Ana,Cavalcanti,ana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,654
+90,Renato,Fernandes,renato.fernandes@email.com,(11) 0123-4567,Alameda dos Lírios,321
+91,Priscila,Ferreira,priscila.ferreira@email.com,(11) 1234-5678,Rua das Violetas,987
+92,Marcelo,Silva,marcelo.silva@email.com,(11) 2345-6789,Avenida dos Narcisos,654
+93,Aline,Santos,aline.santos@email.com,(11) 3456-7890,Travessa das Tulipas,321
+94,Lucas,Lima,lucas.lima@email.com,(11) 4567-8901,Rua dos Girassóis,987
+95,Isabella,Campos,isabella.campos@email.com,(11) 5678-9012,Alameda dos Crisântemos,654
+96,Mateus,Almeida,mateus.almeida@email.com,(11) 6789-0123,Quadra 11,321
+97,Larissa,Gonçalves,larissa.goncalves@email.com,(11) 7890-1234,Praça dos Jardins,987
+98,Andre,Silva,andre.silva@email.com,(11) 8901-2345,Rua dos Manacás,654
+99,Vanessa,Rocha,vanessa.rocha@email.com,(11) 9012-3456,Avenida dos Jasmins,321
+100,Leonardo,Silveira,leonardo.silveira@email.com,(11) 0123-4567,Alameda dos Cravos,987
